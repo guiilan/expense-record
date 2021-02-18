@@ -1,0 +1,23 @@
+{
+  "name": "expense-record",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiilan/expense-record.git"
+  },
+  "keywords": [],
+  "author": "Guilherme Ilan Barboza Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiilan/expense-record/issues"
+  },
+  "homepage": "https://github.com/guiilan/expense-record#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
